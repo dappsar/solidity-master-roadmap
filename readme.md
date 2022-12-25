@@ -5,4 +5,4 @@ This is the [Solidity Master Roadmap](https://www.notion.so/Ethereum-Master-road
 
 # Source Code Folder
 
-* [Tic-Tac-Token](./tic-tac-token)
+* [Tic-Tac-Token](/tic-tac-token)
